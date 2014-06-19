@@ -1,0 +1,2 @@
+APPLICATION_ID = "wm9Qq0giGSnz0oSAmZtxd4bibw39gkOmfyHdsIMr"
+REST_API_KEY = "AVzbisFCv6OhIvm8hYcHfaojWmbUTsrEavyENihb"
